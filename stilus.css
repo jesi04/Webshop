@@ -1,0 +1,35 @@
+
+h1 {
+    color: rgb(0, 247, 255);
+    text-shadow: 4px 4px 8px gold;
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+
+}
+
+body {
+  
+    text-align: center;
+    background-size: auto;
+    width: auto;
+    height: auto;
+    background-image: url("kepek/hatter.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
